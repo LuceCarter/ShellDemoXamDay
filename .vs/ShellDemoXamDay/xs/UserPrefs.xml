@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{FC17C0D2-2F60-4AB1-B689-2FFF1C2457E5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShellDemoXamDay/AppShell.xaml">
+    <Files>
+      <File FileName="ShellDemoXamDay/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="ShellDemoXamDay/MainPage.xaml" />
+      <File FileName="ShellDemoXamDay/AppShell.xaml" />
+      <File FileName="ShellDemoXamDay/AppShell.xaml.cs" Line="8" Column="39" />
+      <File FileName="ShellDemoXamDay/SecondPage.xaml" />
+      <File FileName="ShellDemoXamDay/App.xaml.cs" Line="10" Column="4" />
+      <File FileName="ShellDemoXamDay.iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShellDemoXamDay" expanded="True" selected="True">
+            <Node name="ShellDemoXamDay" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
+              <Node name="SecondPage.xaml" expanded="True" />
+            </Node>
+            <Node name="ShellDemoXamDay.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ShellDemoXamDay.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BCBC68AF-A733-4E7C-9A84-EA8AB22A545A" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ShellDemoXamDay.Android FirstBuild="True" PreferredExecutionTarget="Android.my_device" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
